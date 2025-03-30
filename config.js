@@ -71,12 +71,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "3.0.1-developement",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
+  caption : global.caption || "> 𝐉𝐨𝐬𝐡𝐮𝐚" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "Suhail-MD",
-  ownername:process.env.OWNER_NAME|| "Suhail:Shy<3",
+  author : process.env.PACK_AUTHER|| "234915983460",
+  packname: process.env.PACK_NAME || "𝐉𝐨𝐬𝐡𝐮𝐚",
+  botname : process.env.BOT_NAME  || " 𝐉𝐎𝐒𝐇𝐓𝐄𝐂𝐇",
+  ownername:process.env.OWNER_NAME|| "𝐉𝐎𝐒𝐇𝐔𝐀",
 
 
   errorChat : process.env.ERROR_CHAT || "",
